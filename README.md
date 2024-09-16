@@ -3,7 +3,7 @@
 Project : Brick Breaker Game <br>
 Author : Avani Payasi
 <br><br>
-Introduction: 
+Introduction:<br>
 The Brick Breaker Game is a classic arcade game where the player controls a paddle to bounce a ball and break bricks. The objective is to break all the bricks on the screen without letting the ball fall below the paddle.
 This project was created as a learning experience and demonstrates basic game development concepts such as collision, rendering and user interaction.
 <br><br>
